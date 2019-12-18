@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b06d540.chunk.css",
-    "main.js": "/static/js/main.a1bd8f09.chunk.js",
-    "main.js.map": "/static/js/main.a1bd8f09.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.525b080d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.525b080d.js.map",
-    "static/js/2.2552fc10.chunk.js": "/static/js/2.2552fc10.chunk.js",
-    "static/js/2.2552fc10.chunk.js.map": "/static/js/2.2552fc10.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3739df263272177e1f765e013be39300.js": "/precache-manifest.3739df263272177e1f765e013be39300.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1b06d540.chunk.css.map": "/static/css/main.1b06d540.chunk.css.map"
+    "main.css": "/thinkingstyles/static/css/main.1b06d540.chunk.css",
+    "main.js": "/thinkingstyles/static/js/main.10c8477b.chunk.js",
+    "main.js.map": "/thinkingstyles/static/js/main.10c8477b.chunk.js.map",
+    "runtime-main.js": "/thinkingstyles/static/js/runtime-main.92b27550.js",
+    "runtime-main.js.map": "/thinkingstyles/static/js/runtime-main.92b27550.js.map",
+    "static/js/2.2552fc10.chunk.js": "/thinkingstyles/static/js/2.2552fc10.chunk.js",
+    "static/js/2.2552fc10.chunk.js.map": "/thinkingstyles/static/js/2.2552fc10.chunk.js.map",
+    "index.html": "/thinkingstyles/index.html",
+    "precache-manifest.f7f75a4414be72aaad6ee2ed772d3338.js": "/thinkingstyles/precache-manifest.f7f75a4414be72aaad6ee2ed772d3338.js",
+    "service-worker.js": "/thinkingstyles/service-worker.js",
+    "static/css/main.1b06d540.chunk.css.map": "/thinkingstyles/static/css/main.1b06d540.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.525b080d.js",
+    "static/js/runtime-main.92b27550.js",
     "static/js/2.2552fc10.chunk.js",
     "static/css/main.1b06d540.chunk.css",
-    "static/js/main.a1bd8f09.chunk.js"
+    "static/js/main.10c8477b.chunk.js"
   ]
 }
